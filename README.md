@@ -1,7 +1,7 @@
 # DL-ELM
 Implementation of the DL-ELM network architecture
 This repository contains a implementation of the Double-Layer Extreme Learning Machine network architecture introduced by F. Kiaee, C. Gagné, and H. Sheikhzadeh. The original paper can be found at
-[a link](http://dx.doi.org/10.1016/j.neucom.2016.08.011)
+[http://dx.doi.org/10.1016/j.neucom.2016.08.011](http://dx.doi.org/10.1016/j.neucom.2016.08.011)
 
 Contents
 MATLAB implementation of sparse Bayesian DL-ELM (DL_ELM.m)
