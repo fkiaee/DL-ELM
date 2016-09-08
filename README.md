@@ -7,3 +7,4 @@ Contents
 MATLAB implementation of sparse Bayesian DL-ELM (DL_ELM.m)
 MATLAB minimal demonstration (DL_ELM_demo.m)
 Spect benchmark dataset for demonstration (SPECT.train.txt, SPECT.test.txt)
+salam
